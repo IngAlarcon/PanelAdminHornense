@@ -38,4 +38,4 @@ Actualmente incluye:
 <img  src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdmin-min.png"/>
 
 -Gestion de las noticias
-<img " src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdminVista.png"/>
+<img src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdminVista.png"/>
