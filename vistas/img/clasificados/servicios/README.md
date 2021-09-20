@@ -1,0 +1,1 @@
+Carpeta que se usara para administrar el contenido.
