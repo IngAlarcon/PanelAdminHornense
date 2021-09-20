@@ -28,3 +28,14 @@ Actualmente incluye:
   - Sweetalert2
   - Font Awesome
   - Summernote
+
+## Vistas del panel:
+
+- Login del panel 
+<img src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdmin2-min.png"/>
+
+-Seccion de inicio
+<img  src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdmin-min.png"/>
+
+-Gestion de las noticias
+<img " src="https://github.com/IngAlarcon/PanelAdminHornense/blob/main/vistas/img/plantilla/vistapreviapanelAdmin/panelAdminVista.png"/>
