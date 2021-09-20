@@ -1,0 +1,39 @@
+#loginBody {
+       
+	background-image:url(../img/fondologin.jpg); 
+	/*background:#F9F0E4;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed; 
+}
+
+#cabezera {
+
+
+	border-radius: 100px;
+
+
+}
+
+.login-logo {
+	font-size: 40px;
+
+}
+
+
+.iniciar{
+	font-size: 25px;
+	font-weight: 700!important;	
+}
+
+.login-card-body, .register-card-body {
+    background: #fff;
+    border-top: 0;
+    color: #777777;
+    padding: 20px;
+}
+
+.login-logo a, .register-logo a {
+    color: #F2F4F4;
+}
+

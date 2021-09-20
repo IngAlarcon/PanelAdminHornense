@@ -1,0 +1,22 @@
+/*Cambiando color a la barra del menu lateral*/
+[class*=sidebar-dark-] {
+    background-color: #0069d9;
+}
+
+/*Cambiando color a la botonera del  menu lateral*/
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #fff;
+    color: rgba(193, 39, 45,.8) /*#C1272D*/;
+}
+
+[class*=sidebar-dark-] .sidebar a {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(193, 39, 45,.8);
+
+}
+
+
+/*#343a40 color original   #0069d9 color azul   #98B3CE color honense secundario */
